@@ -43,7 +43,7 @@ namespace RiverProject
             amazonka.VivestiInfo();
 
             Console.WriteLine("Тестирование завершено — коммит №3");   // ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
-
+            Console.WriteLine("Тестирование завершено — коммит №3");
             Console.ReadKey(); // чтобы окно не закрылось сразу
         }
     }
