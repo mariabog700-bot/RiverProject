@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace RiverProject
 {
     // === НАШ КЛАСС ===
@@ -26,6 +25,10 @@ namespace RiverProject
             Console.WriteLine($"Протяжённость: {Protyazhennost} км");
             Console.WriteLine("---------------------");
         }
+
+        // ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
+        // Конструктор с параметрами готов — коммит №2
+        // ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
     }
 
     class Program
@@ -39,9 +42,9 @@ namespace RiverProject
             volga.VivestiInfo();
             amazonka.VivestiInfo();
 
+            Console.WriteLine("Тестирование завершено — коммит №3");   // ←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←←
+
             Console.ReadKey(); // чтобы окно не закрылось сразу
         }
     }
 }
-
-//"E:\Вижла очищай а\RiverProject"
