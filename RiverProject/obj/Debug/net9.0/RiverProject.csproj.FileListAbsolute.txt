@@ -1,0 +1,14 @@
+E:\Вижла очищай а\RiverProject\RiverProject\bin\Debug\net9.0\RiverProject.exe
+E:\Вижла очищай а\RiverProject\RiverProject\bin\Debug\net9.0\RiverProject.deps.json
+E:\Вижла очищай а\RiverProject\RiverProject\bin\Debug\net9.0\RiverProject.runtimeconfig.json
+E:\Вижла очищай а\RiverProject\RiverProject\bin\Debug\net9.0\RiverProject.dll
+E:\Вижла очищай а\RiverProject\RiverProject\bin\Debug\net9.0\RiverProject.pdb
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.AssemblyInfoInputs.cache
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.AssemblyInfo.cs
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.csproj.CoreCompileInputs.cache
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.dll
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\refint\RiverProject.dll
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.pdb
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.genruntimeconfig.cache
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\ref\RiverProject.dll
