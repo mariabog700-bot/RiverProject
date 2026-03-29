@@ -12,3 +12,4 @@ E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\refint\
 E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.pdb
 E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.genruntimeconfig.cache
 E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\ref\RiverProject.dll
+E:\Вижла очищай а\RiverProject\RiverProject\obj\Debug\net9.0\RiverProject.sourcelink.json

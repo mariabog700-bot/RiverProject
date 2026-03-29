@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RiverProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15554946f8647264026bd3afd03beb659db527ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("RiverProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RiverProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
